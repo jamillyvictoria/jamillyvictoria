@@ -10,5 +10,6 @@
 
 Here's some of what I know:
 
-![Name](https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/icons/java.png?raw=true)
-![Name](https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/icons/visualstudio_code.png?raw=true)
+<img src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/icons/java.png" alt="python" width="120" hight="50">
+<img src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/icons/visualstudio_code.png" alt="python" width="120" hight="50">
+
