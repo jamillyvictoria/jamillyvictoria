@@ -16,10 +16,6 @@
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="https://www.codechef.com/users/jamillyvictoria">
-  <img align="left" alt="Abhishek's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a> 
-
 ![](https://visitor-badge.glitch.me/badge?page_id=jamillyvictoria.jamillyvictoria)
 
 
