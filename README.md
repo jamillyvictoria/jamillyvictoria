@@ -18,6 +18,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jamillyvictoria.jamillyvictoria)
 
+<br />
 
 ✨ 💬 How are u ?? 💬✨
 
@@ -25,7 +26,10 @@
 
 💗 I still consider myself a "newbie" in this area and I know I have A LOT TO LEARN💗
 
+💻 Beside's programming, I LOVE SO MUCH eating food and traveling.🍟 🍕 🥪 🍛 🍣 🍱
+
 📫 How to reach me: jamillyvvictoria@gmail.com;
+
 <br/>
 
  💬 Here's some of what I know:
