@@ -35,7 +35,7 @@
 💻 Beside's programming, I LOVE SO MUCH eating food and traveling.🍟 🍕 🥪 🍛 🍣 🍱
 
 📫 How to reach me: jamillyvvictoria@gmail.com;
-<img align="right" alt="study" width="200" src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/study.gif" />
+<img align="center" alt="study" width="50" src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/studyy.gif" />
 <br/>
 
  💬 Here's some of what I know:
