@@ -1,7 +1,7 @@
 ### 📢🎀 KONICHIWA ‼️‼️‼️⭕️
 
 <img align="right" width="300" alt="flowers" src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/flowers.gif" />
-<img alt="welcome" src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/welcomekawaii.gif" />
+<img alt="welcome" width="450" src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/welcomekawaii.gif" />
 
 
 <br/>
