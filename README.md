@@ -1,6 +1,7 @@
-### 📣 KONICHIWA ‼️‼️‼️
+### 📢🎀 KONICHIWA ‼️‼️‼️⭕️
 
-![Name](https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/83a8109108991aba8d33375d031199f7259a892dr1-420-376_00.gif?raw=true)
+<img align="right" width="300" alt="flowers" src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/flowers.gif" />
+<img alt="welcome" src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/welcomekawaii.gif" />
 
 
 <br/>
@@ -16,9 +17,12 @@
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+
 ![](https://visitor-badge.glitch.me/badge?page_id=jamillyvictoria.jamillyvictoria)
 
 <br />
+
+<img align="right" alt="GIFHELLO" src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/83a8109108991aba8d33375d031199f7259a892dr1-420-376_00.gif" />
 
 ✨ 💬 How are u ?? 💬✨
 
@@ -41,4 +45,6 @@
 <code><img height="20" src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/icons/github.png"></code>
 <code><img height="20" src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/icons/mysql.png"></code>
 
+<img align="right" alt="nuvens" width="300" src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/kawaiiimages/nuvens.png" />
 
+![jamilly's github stats](https://github-readme-stats.vercel.app/api?username=jamillyvictoria&show_icons=true&hide_border=true)
