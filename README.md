@@ -1,9 +1,9 @@
 ### 📣 KONICHIWA ‼️‼️‼️
 
+<img align="right" width="200" alt="flowers" src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/flowers.gif" />
 <img alt="welcome" src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/welcomekawaii.gif" />
-<img align="right" alt="flowers" src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/flowers.gif" />
 
-<br/>
+
 <br/>
 <a href="_______">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
