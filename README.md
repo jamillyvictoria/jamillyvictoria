@@ -1,7 +1,6 @@
 ### 📣 KONICHIWA ‼️‼️‼️
 
-![Name](https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/83a8109108991aba8d33375d031199f7259a892dr1-420-376_00.gif?raw=true)
-
+<img alt="welcome" src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/welcomekawaii.gif" />
 
 <br/>
 <a href="_______">
@@ -19,6 +18,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=jamillyvictoria.jamillyvictoria)
 
 <br />
+
+<img align="right" alt="GIFHELLO" src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/83a8109108991aba8d33375d031199f7259a892dr1-420-376_00.gif" />
 
 ✨ 💬 How are u ?? 💬✨
 
