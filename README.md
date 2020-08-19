@@ -22,7 +22,7 @@
 
 <br />
 
-<img align="right" alt="GIFHELLO" src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/83a8109108991aba8d33375d031199f7259a892dr1-420-376_00.gif" />
+<img align="right" alt="GIFHELLO" src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/girl.gif" />
 
 ✨ 💬 How are u ?? 💬✨
 
@@ -35,7 +35,7 @@
 💻 Beside's programming, I LOVE SO MUCH eating food and traveling.🍟 🍕 🥪 🍛 🍣 🍱
 
 📫 How to reach me: jamillyvvictoria@gmail.com;
-<img align="right" alt="nuvens" width="200" src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/study.gif" />
+<img align="right" alt="study" width="200" src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/study.gif" />
 <br/>
 
  💬 Here's some of what I know:
@@ -45,6 +45,6 @@
 <code><img height="20" src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/icons/github.png"></code>
 <code><img height="20" src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/icons/mysql.png"></code>
 
-<img align="right" alt="nuvens" width="300" src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/kawaiiimages/nuvens.png" />
+<img align="right" alt="study" width="300" src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/kawaiiimages/nuvens.png" />
 
 ![jamilly's github stats](https://github-readme-stats.vercel.app/api?username=jamillyvictoria&show_icons=true&hide_border=true)
