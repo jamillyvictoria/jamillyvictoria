@@ -36,7 +36,9 @@
 
  💬 Here's some of what I know:
 
-<img src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/icons/java.png" alt="python" width="120" hight="50">
-<img src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/icons/visualstudio_code.png" alt="python" width="120" hight="50">
+<code><img height="20" src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/icons/java.png"></code>
+<code><img height="20" src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/icons/visualstudio_code.png"></code>
+<code><img height="20" src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/icons/github.png"></code>
+<code><img height="20" src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/icons/mysql.png"></code>
 
 
