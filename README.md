@@ -15,7 +15,6 @@ I am a designer too
 💻 Beside's programming, I LOVE SO MUCH eating food and traveling.🍟 🍕 🥪 🍛 🍣 🍱
 
 📫 How to reach me: jamillyvvictoria@gmail.com;
-<img align="center" alt="study" width="50" src="https://github.com/jamillyvictoria/jamillyvictoria/blob/master/images/studyy.gif" />
 <br/>
 
  💬 Here's some of what I know:
