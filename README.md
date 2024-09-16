@@ -6,11 +6,11 @@
 
 ✨ 💬 How are u ?? 💬✨
 
-🍄 I am  a girl who is currently learning a LOT about new technologies and languages🍄
+I am a product owner and have worked in this area for between 2 and 3 years.
 
-🌸 I am a designer too (I really like to draw,I'm learning to do this digitally ...)🌸
+I am  a girl who is currently learning a LOT about new technologies and languages
 
-💗 I still consider myself a "newbie" in this area and I know I have A LOT TO LEARN💗
+I am a designer too
 
 💻 Beside's programming, I LOVE SO MUCH eating food and traveling.🍟 🍕 🥪 🍛 🍣 🍱
 
